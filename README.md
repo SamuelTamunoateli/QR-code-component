@@ -17,8 +17,8 @@
 
 ## Links
 
-- Solution URL: [](https://github.com/SamuelTamunoateli/QR-code-component)
-- Live Site URL: [](https://samueltamunoateli.github.io/product-preview-card-component/)
+- Solution URL: [https://github.com/SamuelTamunoateli/qr-code-component](https://github.com/SamuelTamunoateli/qr-code-component)
+- Live Site URL: [https://samueltamunoateli.github.io/qr-code-component/](https://samueltamunoateli.github.io/qr-code-component/)
 
 ## Built with
 
