@@ -76,9 +76,19 @@ a{
         width: 70vw;
     }
     .container{
-        width: 40%;      
+        width: 50%;      
     }
     .text{
         padding: 10px;
+    }
+}
+@media screen and (min-width: 900px){
+    .container{
+        width: 40%;
+    }
+}
+@media screen and (min-width: 1200px){
+    .container{
+        width:30%;
     }
 }
