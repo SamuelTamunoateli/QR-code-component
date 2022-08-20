@@ -17,8 +17,8 @@
 
 ## Links
 
-- Solution URL: [https://github.com/SamuelTamunoateli/qr-code-component](https://github.com/SamuelTamunoateli/qr-code-component)
-- Live Site URL: [https://samueltamunoateli.github.io/qr-code-component/](https://samueltamunoateli.github.io/qr-code-component/)
+- Solution URL: [https://github.com/amateli/qr-code-component](https://github.com/amateli/qr-code-component)
+- Live Site URL: [https://amateli.github.io/qr-code-component/](https://amateli.github.io/qr-code-component/)
 
 ## Built with
 

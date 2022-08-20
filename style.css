@@ -1,94 +1,83 @@
 /* Global styles */
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
-:root{
-    --debug: 1px solid red;
-    /* colors */
-    --white: hsl(0, 0%, 100%);
-    --light-gray: hsl(212, 45%, 89%);
-    --grayish-blue: hsl(220, 15%, 55%);
-    --dark-blue: hsl(218, 44%, 22%);
-    --violet-blue: hsl(228, 45%, 44%);
+:root {
+  --debug: 1px solid red;
+  /* colors */
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+  --violet-blue: hsl(228, 45%, 44%);
 }
 
-*{
-    padding: 0;
-    margin:0;
-    box-sizing: border-box;
-    font-size: 15px;
-    font-family: 'Outfit', sans-serif;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
 }
 
 /* mobile */
-body{
-    background-color: var(--light-gray);
-    height: 100vh;
+body {
+  background-color: var(--light-gray);
+  min-height: 100vh;
 }
 body,
-.container
-.text{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+.container .text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
-.container{
-    background-color: var(--white);
-    padding: 1em;
-    border-radius: 20px;
-    width: 80%;      
+.container {
+  background-color: var(--white);
+  padding: 1em;
+  border-radius: 20px;
+  width: 80%;
 }
-img{
-    display: block;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 10px;
-    margin-bottom: 5px;
+img {
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-bottom: 5px;
 }
-.text{
-    padding: 20px;   
+.text {
+  padding: 20px;
 }
-h2{
-    color: var(--dark-blue);
-    font-size: 20px;
-    margin-bottom: 20px;
-    font-weight: 700;
+h2 {
+  color: var(--dark-blue);
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 700;
 }
-p{
-    color:var(--grayish-blue);
-    font-weight: 400;
+p {
+  color: var(--grayish-blue);
+  font-weight: 400;
 }
 .attribution,
-a{
-    font-size: 11px;
+a {
+  font-size: 11px;
 }
-a{
-    color: var(--violet-blue);
+a {
+  color: var(--violet-blue);
 }
 
 /* desktop */
 @media screen and (min-width: 501px) {
-    body{
-        width: 70vw;
-    }
-    .container{
-        width: 50%;      
-    }
-    .text{
-        padding: 10px;
-    }
-}
-@media screen and (min-width: 900px){
-    .container{
-        width: 40%;
-    }
-}
-@media screen and (min-width: 1200px){
-    .container{
-        width:30%;
-    }
+  body {
+    width: 70vw;
+  }
+  .container {
+    width: 20em;
+  }
+  .text {
+    padding: 10px;
+  }
 }
