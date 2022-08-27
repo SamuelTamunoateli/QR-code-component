@@ -6,10 +6,11 @@
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
-- [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
+
+A QR code component
 
 ## Screenshot
 
@@ -17,8 +18,8 @@
 
 ## Links
 
-- Solution URL: [https://github.com/amateli/qr-code-component](https://github.com/amateli/qr-code-component)
-- Live Site URL: [https://amateli.github.io/qr-code-component/](https://amateli.github.io/qr-code-component/)
+- Solution URL: [Code](https://github.com/amateli/qr-code-component)
+- Live Site URL: [Live-link](https://amateli.github.io/qr-code-component/)
 
 ## Built with
 
